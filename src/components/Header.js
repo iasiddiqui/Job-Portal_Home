@@ -6,7 +6,7 @@ function Header() {
     <div className="header">
       <div className="leftContent">
         {/* <img src="./logo.png" alt="logo" /> */}
-        <h1>HRtech {"&"} Insurancetech</h1>
+        <h1>Job  Portal</h1>
       </div>
       <div className="centerContent">
         <h1>Services</h1>

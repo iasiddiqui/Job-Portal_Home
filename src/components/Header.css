@@ -83,7 +83,7 @@
   padding-right: 20px;
   padding-left: 20px;
   color: white;
-  background-color: red;
+  background-color: rgb(17, 0, 255);
   font-weight: bold;
 }
 
@@ -93,7 +93,7 @@
 
 .rightContent > button:hover {
   color: beige;
-  background-color: #e40017;
+  background-color:red;
   transition: all 0.2s ease-in;
   cursor: pointer;
 }
