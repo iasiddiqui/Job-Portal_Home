@@ -3,9 +3,9 @@
   flex-direction: column;
   background: radial-gradient(
     circle,
-    rgba(113, 27, 184, 0.3) 0%,
-    rgba(128, 0, 149, 1) 100%,
-    rgba(0, 0, 0, 0.5) 100%
+    rgba(173, 109, 226, 0.3) 0%,
+    rgba(243, 197, 250, 0.628) 100%,
+    rgba(98, 97, 97, 0.5) 100%
   );
   border-radius: 25px;
   padding: 0;
