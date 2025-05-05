@@ -53,7 +53,7 @@ Before starting you need to have [Git](https://git-scm.com) and [Node](https://n
 - Clone the project
 
 ```bash
-  git clone https://github.com/shivendradb/Hiring-Website-ReactJS.git
+  git clone https://github.com/iasiddiqui/Job-Portal_Home
 ```
 
 - Go to the project directory
